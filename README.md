@@ -32,7 +32,7 @@ import matplotlib.pyplot as plt
 
 # Read the Image and convert to grayscale
 
-image=cv2.imread('Microsoft.jpg')
+image=cv2.imread('new.jpg')
 gray_img=cv2.cvtColor(image,cv2.COLOR_BGR2GRAY)
 
 # Original image
